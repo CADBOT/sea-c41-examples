@@ -1,0 +1,44 @@
+JSON list
+['x', 5, 10, 20]
+
+YAML list
+- 'x'
+- 5
+- 10
+- 20
+
+JSON hash vs YAML hash
+{
+  "x": 10,
+  "y": 20
+}
+
+x: 10
+y: 20
+
+YAML WITH JSON IN IT
+x: ['hi', 'bye']
+
+
+YAML HASH TO YAML LIST
+x:
+  - 'hi'
+  - 'bye'
+
+YAML WITH TWO HASHES
+y:
+  - 'one'
+  - 'two'
+
+z:
+  - 'three'
+  - 'four'
+
+
+
+
+
+
+
+
+
